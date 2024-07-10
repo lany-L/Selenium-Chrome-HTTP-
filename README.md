@@ -7,6 +7,8 @@ python安装依赖，填充代理信息，直接使用
   # 伪装真实设备UA，反爬虫
 
 ```
+  # https://bot.sannysoft.com/
+  
   options.add_experimental_option(
       "excludeSwitches", ["enable-automation"])
   options.add_experimental_option('useAutomationExtension', False)
